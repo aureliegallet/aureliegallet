@@ -1,5 +1,9 @@
 ### Hi there 👋
+<p align=”center”>
 
+<img width=”200" height=”200" src=”./BannerGIT.jpeg" alt=”my banner”>
+
+</p>
 <!--
 **alphaaureus/alphaaureus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
