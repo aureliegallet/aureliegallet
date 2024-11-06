@@ -1,5 +1,7 @@
 <img src="BannerGIT.jpeg" width="900" height="300">
 
+# 😄 About Me:
+
 - 💬 I’m currently working on deploying an ML model for pollution forecasting and building a Web App
 - 🌱 I’m currently learning Reinforcement Learning, Machine Learning, neural Networks, Software Engineering and Cognitive Architectures
 
@@ -26,6 +28,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=alphaaureus&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alphaaureus&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaaureus&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 -->
 
 
