@@ -2,7 +2,7 @@
 
 # 😄 About Me:
 
-- 💬 I’m currently working on deploying an ML model for pollution forecasting and building a Web App
+- 💬 I’m currently working on deploying an ML model for pollution forecasting and building an Expert Knowledge System
 - 🌱 I’m currently learning Reinforcement Learning, Machine Learning, neural Networks, Software Engineering and Cognitive Architectures
 
 # 💻 Tech Stack:
