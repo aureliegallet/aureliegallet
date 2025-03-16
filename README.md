@@ -2,7 +2,7 @@
 
 # 😄 About Me:
 
-- 💬 I’m currently working on deploying an ML model for pollution forecasting and building an Expert Knowledge System
+- 💬 I’m currently working on evaluating Grad-CAM explanations on a Contrastive Learning Framework
 - 🌱 I’m currently learning Reinforcement Learning, Machine Learning, Neural Networks, Software Engineering and Cognitive Architecture
 
 - Any discrepancies may be related to my GitHub username change on December 17th 2024. Please contact me if needed.
