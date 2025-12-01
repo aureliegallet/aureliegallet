@@ -1,13 +1,17 @@
 <img src="BannerGIT.jpeg" width="900" height="300">
 
 # 😄 About Me:
+[![Linkedin: aureliegallet](https://img.shields.io/badge/-aureliegallet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aureliegallet/](https://www.linkedin.com/in/aurelie-gallet-562b2526b/))](https://www.linkedin.com/in/aurelie-gallet-562b2526b/)
+[![GitHub aureliegallet](https://img.shields.io/github/followers/aureliegallet?label=follow&style=social)](https://github.com/aureliegallet)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 - 💬 I'm currently working on teaching LLMs to stick to their persona while resisting sycophantic drift
 - 🌱 I’m currently learning about Human-Computer Interaction, Machine Learning, and Natural Language Processing
 - 🩻 Most recent project was about evaluating Grad-CAM explanations on a Contrastive Learning Framework using a medical image dataset
 
 - Any discrepancies may be related to my GitHub username change on December 17th 2024. Please contact me if needed.
-
 
 # 💻 Top Technologies
 
@@ -69,6 +73,81 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=alphaaureus&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alphaaureus&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaaureus&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+```python
+class AurelieGallet: 
+    def __init__(self):
+        self.role = "Student at McGill"
+        self.location = "Montréal"
+        self.interests = ["Deep Learning", "Explainable and Responsible AI"]
+        self.side_projects = [""]
+    
+    def greet(self):
+        all_interests = ", ".join(self.interests)
+        all_projects = ", ".join(self.side_projects)
+        return (
+            f"Hello, I'm a {self.role} in {self.location}. " 
+            f"I am interested in {all_interests}."
+            f"I am currently working on {all_projects}."
+        )
+```
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+
 
 -->
 
