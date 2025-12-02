@@ -1,11 +1,13 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+  actions: read
 
 jobs:
   update-readme:
@@ -15,5 +17,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: all_time
+          SHOW_TITLE: true
