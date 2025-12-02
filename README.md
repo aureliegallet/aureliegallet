@@ -1,6 +1,6 @@
 <img src="BannerGIT.jpeg" width="900" height="300">
 
-# 😄 About Me:
+
 [![Linkedin: aureliegallet](https://img.shields.io/badge/-aureliegallet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aureliegallet/](https://www.linkedin.com/in/aurelie-gallet-562b2526b/))](https://www.linkedin.com/in/aurelie-gallet-562b2526b/)
 [![GitHub aureliegallet](https://img.shields.io/github/followers/aureliegallet?label=follow&style=social)](https://github.com/aureliegallet)
 
@@ -11,6 +11,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+# 😄 About Me:
 
 - 💬 I'm currently working on teaching LLMs to stick to their persona while resisting sycophantic drift
 - 🌱 I’m currently learning about Human-Computer Interaction, Machine Learning, and Natural Language Processing
