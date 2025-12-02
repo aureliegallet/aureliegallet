@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "Stats from the past week"
           SHOW_UPDATED_DATE: "False"
-          SHOW_PROFILE_VIEWS: "False
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
