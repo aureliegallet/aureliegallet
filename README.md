@@ -5,6 +5,11 @@
 [![GitHub aureliegallet](https://img.shields.io/github/followers/aureliegallet?label=follow&style=social)](https://github.com/aureliegallet)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 - 💬 I'm currently working on teaching LLMs to stick to their persona while resisting sycophantic drift
