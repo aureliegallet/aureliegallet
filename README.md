@@ -1,4 +1,6 @@
-<img src="BannerGIT.jpeg" width="900" height="300">
+<p align="center">
+  <img src="BannerGIT.jpeg" width="1000" height="300">
+</p>
 
 
 [![Linkedin: aureliegallet](https://img.shields.io/badge/-aureliegallet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aureliegallet/](https://www.linkedin.com/in/aurelie-gallet-562b2526b/))](https://www.linkedin.com/in/aurelie-gallet-562b2526b/)
@@ -12,7 +14,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-# 😄 About Me:
 
 - 💬 I'm currently working on teaching LLMs to stick to their persona while resisting sycophantic drift
 - 🌱 I’m currently learning about Human-Computer Interaction, Machine Learning, and Natural Language Processing
@@ -20,7 +21,30 @@ No activity tracked
 
 - Any discrepancies may be related to my GitHub username change on December 17th 2024. Please contact me if needed.
 
-# 💻 Top Technologies
+```python
+class AurelieGallet: 
+    def __init__(self):
+        self.role = "Student at McGill"
+        self.location = "Montréal"
+        self.interests = ["Deep Learning", "Explainable and Responsible AI"]
+        self.side_projects = [""]
+    
+    def greet(self):
+        all_interests = ", ".join(self.interests)
+        all_projects = ", ".join(self.side_projects)
+        return (
+            f"Hello, I'm a {self.role} in {self.location}. " 
+            f"I am interested in {all_interests}."
+            f"I am currently working on {all_projects}."
+        )
+```
+
+ <details>
+      <summary> 💻 Top Technologies</summary>
+
+  <!-- Add an empty line here -->
+  
+()
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -34,8 +58,14 @@ No activity tracked
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+</details>
 
-# 📗 Other Technologies
+ <details>
+      <summary> 📗 Other Technologies</summary>
+
+  <!-- Add an empty line here -->
+  
+()
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
@@ -58,6 +88,8 @@ No activity tracked
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+
+</details>
 
 
 
@@ -82,23 +114,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaaureus&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-```python
-class AurelieGallet: 
-    def __init__(self):
-        self.role = "Student at McGill"
-        self.location = "Montréal"
-        self.interests = ["Deep Learning", "Explainable and Responsible AI"]
-        self.side_projects = [""]
-    
-    def greet(self):
-        all_interests = ", ".join(self.interests)
-        all_projects = ", ".join(self.side_projects)
-        return (
-            f"Hello, I'm a {self.role} in {self.location}. " 
-            f"I am interested in {all_interests}."
-            f"I am currently working on {all_projects}."
-        )
-```
+
 
 > Tools, languages, and other things that I like to work with.
 
