@@ -7,7 +7,7 @@
 [![GitHub aureliegallet](https://img.shields.io/github/followers/aureliegallet?label=follow&style=social)](https://github.com/aureliegallet)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2043%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
