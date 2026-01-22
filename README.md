@@ -2,6 +2,33 @@
   <img src="banner.png">
 </p>
 
+🏗️ **About Me** 
+```python
+class AurelieGallet: 
+    def __init__(self):
+        self.role = "Student at McGill"
+        self.location = "Montréal"
+        self.interests = ["Deep Learning", "Explainable and Responsible AI"]
+        self.side_projects = ["LLM_Sycophancy", "Dark_Clause_Detector"]
+    
+    def greet(self):
+        all_interests = ", ".join(self.interests)
+        all_projects = ", ".join(self.side_projects)
+        return (
+            f"Hello, I'm a {self.role} in {self.location}. " 
+            f"I am interested in {all_interests}."
+            f"I am currently working on {all_projects}."
+        )
+```
+
+
+🧠 **Projects** 
+- 💬 I'm currently working on a tool to detect dangerous/harmful clauses in legal contracts.
+- 🌱 I’m currently learning about Machine Learning, Reinforcement Learning, and Natural Language Processing
+- 🩻 Most recent project was about teaching LLMs to stick to their persona while resisting sycophantic drift
+
+- Any discrepancies may be related to my GitHub username change on December 17th 2024. Please contact me if needed.
+
 
 [![Linkedin: aureliegallet](https://img.shields.io/badge/-aureliegallet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aureliegallet/](https://www.linkedin.com/in/aurelie-gallet-562b2526b/))](https://www.linkedin.com/in/aurelie-gallet-562b2526b/)
 [![GitHub aureliegallet](https://img.shields.io/github/followers/aureliegallet?label=follow&style=social)](https://github.com/aureliegallet)
@@ -45,31 +72,6 @@ Java                     1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-🧠 **Projects** 
-- 💬 I'm currently working on teaching LLMs to stick to their persona while resisting sycophantic drift
-- 🌱 I’m currently learning about Human-Computer Interaction, Machine Learning, and Natural Language Processing
-- 🩻 Most recent project was about evaluating Grad-CAM explanations on a Contrastive Learning Framework using a medical image dataset
-
-- Any discrepancies may be related to my GitHub username change on December 17th 2024. Please contact me if needed.
-
-🏗️ **About Me** 
-```python
-class AurelieGallet: 
-    def __init__(self):
-        self.role = "Student at McGill"
-        self.location = "Montréal"
-        self.interests = ["Deep Learning", "Explainable and Responsible AI"]
-        self.side_projects = [""]
-    
-    def greet(self):
-        all_interests = ", ".join(self.interests)
-        all_projects = ", ".join(self.side_projects)
-        return (
-            f"Hello, I'm a {self.role} in {self.location}. " 
-            f"I am interested in {all_interests}."
-            f"I am currently working on {all_projects}."
-        )
-```
 
  <details>
       <summary> 💻 <b>Top Technologies</b></summary>
