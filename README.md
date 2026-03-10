@@ -51,8 +51,7 @@ Sunday                   145 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 37 mins       █████████████████████████   99.91 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
