@@ -34,16 +34,16 @@ class AurelieGallet:
 [![GitHub aureliegallet](https://img.shields.io/github/followers/aureliegallet?label=follow&style=social)](https://github.com/aureliegallet)
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Wednesday                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Saturday                 47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Sunday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Monday                   200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Tuesday                  290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Wednesday                264 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Thursday                 194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Sunday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 ```
 
 
