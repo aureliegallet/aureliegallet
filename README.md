@@ -37,13 +37,13 @@ class AurelieGallet:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Tuesday                  290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Wednesday                264 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Thursday                 194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Sunday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Wednesday                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 ```
 
 
@@ -57,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
-Jupyter Notebook         8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
+Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
