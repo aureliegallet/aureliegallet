@@ -34,6 +34,26 @@ class AurelieGallet:
 [![GitHub aureliegallet](https://img.shields.io/github/followers/aureliegallet?label=follow&style=social)](https://github.com/aureliegallet)
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Wednesday                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
