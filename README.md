@@ -39,13 +39,13 @@ class AurelieGallet:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Wednesday                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Monday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Tuesday                  292 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Wednesday                268 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Thursday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Friday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Saturday                 93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Sunday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 ```
 
 
@@ -53,10 +53,10 @@ Sunday                   146 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       ████████████████████░░░░░   79.02 % 
-CSV                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-TSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   5 hrs 7 mins        █████████████████████░░░░   82.51 % 
+CSV                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+TSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
