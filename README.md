@@ -39,13 +39,13 @@ class AurelieGallet:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Tuesday                  292 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Wednesday                268 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Thursday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Friday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Saturday                 93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Sunday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Tuesday                  68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Wednesday                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Thursday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Sunday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 ```
 
 
