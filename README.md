@@ -53,10 +53,9 @@ Sunday                   146 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 7 mins        █████████████████████░░░░   85.03 % 
-CSV                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-TSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   4 hrs 59 mins       ██████████████████████░░░   86.76 % 
+CSV                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 ```
 
 🤖 **AI Coding This Week** 
