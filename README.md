@@ -34,17 +34,16 @@ class AurelieGallet:
 [![GitHub aureliegallet](https://img.shields.io/github/followers/aureliegallet?label=follow&style=social)](https://github.com/aureliegallet)
 
 <!--START_SECTION:waka-->
-
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Wednesday                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Wednesday                275 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 ```
 
 
@@ -52,11 +51,11 @@ Sunday                   146 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 8 mins        ███████████████████████░░   92.96 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Python                   4 hrs 56 mins       █████████████████████░░░░   84.97 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
-
 
 **I Mostly Code in Python** 
 
