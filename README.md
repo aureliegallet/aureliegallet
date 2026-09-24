@@ -37,13 +37,13 @@ class AurelieGallet:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Wednesday                275 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Wednesday                278 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 ```
 
 
@@ -60,11 +60,11 @@ CSV                      4 mins              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
-Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   15 repos            ██████████░░░░░░░░░░░░░░░   39.47 % 
+Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
