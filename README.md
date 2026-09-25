@@ -37,13 +37,13 @@ class AurelieGallet:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Wednesday                278 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Wednesday                278 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Thursday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 ```
 
 
@@ -51,10 +51,11 @@ Sunday                   146 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 56 mins       █████████████████████░░░░   84.97 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   3 hrs 39 mins       █████████████░░░░░░░░░░░░   50.64 % 
+CSS                      1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+HTML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 **I Mostly Code in Python** 
