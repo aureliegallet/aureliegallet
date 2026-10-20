@@ -37,13 +37,13 @@ class AurelieGallet:
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   330 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Tuesday                  327 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Wednesday                359 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Thursday                 200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Saturday                 116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Sunday                   189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Monday                   293 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Tuesday                  320 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Wednesday                346 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Thursday                 200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Saturday                 109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Sunday                   175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 
 
@@ -51,21 +51,21 @@ Sunday                   189 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ████████████████████░░░░░   81.24 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Rust                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Python                   2 hrs 34 mins       ███████████████████░░░░░░   77.00 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-Jupyter Notebook         8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   15 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+Jupyter Notebook         9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
